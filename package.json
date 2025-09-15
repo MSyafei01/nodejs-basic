@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-basic",
+  "version": "1.0.0",
+  "description": "sinau",
+  "main": "sinau",
+  "scripts": {
+    "test": "yowes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "syabaqi"
+  },
+  "keywords": [
+    "qwe"
+  ],
+  "author": "syabaqi",
+  "license": "ISC",
+  "dependencies": {
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.30.1"
+  }
+}
